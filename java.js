@@ -18,7 +18,7 @@ form.addEventListener("submit", async function (event) {
     let statusContainer = document.querySelector(".status");
     statusContainer.innerHTML = "";
     if (input.value) {
-      pokemonTag.style.backgroundColor = "gold";
+      pokemonTag.style.backgroundColor = "goldenrod";
       for (const element of result.stats) {
         // pokemonTag.style.display = "unset"
         nameContainer.innerHTML = `${result.name.toUpperCase()}`;
