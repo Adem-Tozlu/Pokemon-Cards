@@ -30,8 +30,8 @@ Dies ist eine Lösung für eine Herausforderung bei der DCI(Digital Career Insti
 
 ### Links
 
-- Lösungs-URL: [Github-Lösungen](https://github.com/Adem-Tozlu/Project-Crypto-Currencyconverter)
-- Live-Site-URL: [Website Währungsrechner](https://project-crypto-currencyconverter.vercel.app/)
+- Lösungs-URL: [Github-Lösungen](https://github.com/Adem-Tozlu/Pokemon-Cards)
+- Live-Site-URL: [Website Pokemon Cards](https://project-crypto-currencyconverter.vercel.app/)
 
 ## Mein Prozess
 
