@@ -5,7 +5,8 @@
 # Project – Pokemon Cards
 
 
-This is a solution to a challenge at the DCI (Digital Career Institute). The challenges help you improve your programming skills by creating realistic projects. This task was about displaying a Pokemon card with data retrieved via the Pokemon API.
+This is a solution to a challenge at the DCI (Digital Career Institute). The challenges will help you improve your programming skills by creating realistic projects. I am happy to report on the Pokemon Cards project. As part of the "Pokemon Cards" project, a Pokemon card was successfully displayed using data from the Pokemon API. In addition to displaying the card data, the sound of the respective Pokemon was also integrated to make the experience even more interactive and lively. It is It is important that the names of the Pokemon are always given in English when searching to ensure a correct search in the Pokemon API.
+
 
 
 
