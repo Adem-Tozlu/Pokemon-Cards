@@ -1,16 +1,72 @@
-# Pokemon-Karten
+# Pokemon Cards
 
-**Diese :cartwheeling: Übung :weight_lifting: besteht darin, eine Pokemon-Karte mit Daten anzuzeigen, die über die Pokemon API abgerufen werden.**
+# Project – Pokemon Cards
 
-[Pokemon API](https://pokeapi.co/)
+Dies ist eine Lösung für eine Herausforderung bei der DCI(Digital Career Institut). Die Herausforderungen helfen Ihnen, Ihre Programmierfähigkeiten zu verbessern, indem Sie realistische Projekte erstellen.In dieser Aufgabe ging es darum eine Pokemon-Karte mit Daten anzuzeigen, die über die Pokemon API abgerufen werden.
 
-1. Der Benutzer sollte in der Lage sein, über das Eingabefeld nach verschiedenen Pokemons zu suchen.
-2. Sobald der Button geklickt wird, sollten die Daten für das angeforderte Pokemon in deiner Karte angezeigt werden. Achtung, wenn das Eingabefeld keinen Eintrag hat, aber der Button bereits geklickt wurde, informiere den Benutzer darüber.
-3. Zeige die folgenden Informationen für jedes Pokemon an: Name (name), Bild (sprites), Werte (stats) und Fähigkeiten (abilties).
-4. Gestalte nach deinem eigenen Geschmack.
+## Inhaltsverzeichnis
 
----
+- [Übersicht](#Übersicht)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Mein Prozess](#my-process)
+  - [Erstellt mit](#built-with)
+  - [Was ich gelernt habe](#what-i-learned)
+  - [Fortsetzung der Entwicklung](#continued-development)
+- [Autor](#Autor)
 
-Als Richtlinie, wie die fertige Webseite aussehen könnte, verwende das untenstehende Referenzbild.
 
-![](poke.gif)
+
+## Überblick
+
+### Bildschirmfoto
+
+![Screenshot](images/mobile_pokemon.png)
+
+
+
+### Bildschirmfoto
+![Screenshot](images/screenshot_Pokemon.png)
+
+### Links
+
+- Lösungs-URL: [Github-Lösungen](https://github.com/Adem-Tozlu/Project-Crypto-Currencyconverter)
+- Live-Site-URL: [Website Währungsrechner](https://project-crypto-currencyconverter.vercel.app/)
+
+## Mein Prozess
+
+### Gebaut mit
+
+- Semantisches HTML5-Markup
+- Benutzerdefinierte CSS-Eigenschaften
+- Javascript
+- Mobile-First-Workflow
+- pokeapi.co
+
+
+### Was ich gelernt habe
+
+
+Im Laufe dieses Projekts konnte ich meine Kompetenzen in folgenden Bereichen deutlich erweitern:
+
+- CSS: Durch die intensive Auseinandersetzung mit den Gestaltungsmöglichkeiten von CSS habe ich mein Wissen und meine Fähigkeiten in diesem Bereich erheblich vertieft.
+
+- Javascript: Die aktive Anwendung von Javascript im Projekt hat mir wertvolle Erfahrungen im Umgang mit dieser Programmiersprache vermittelt.
+
+- APIs: Durch die Integration von APIs in das Projekt habe ich praktische Kenntnisse in der Nutzung von Schnittstellen zur Datenübertragung und -verarbeitung gewonnen.
+
+- DOM: Die Arbeit mit dem DOM (Document Object Model) hat mein Verständnis der Struktur und Funktionsweise von Webseiten auf HTML-Basis verbessert.
+
+Zusammenfassend lässt sich sagen, dass dieses Projekt einen wichtigen Beitrag zu meiner fachlichen Weiterentwicklung geleistet hat.
+
+
+### Weiterentwicklung
+
+In Zukunft plane ich, meine Fähigkeiten im CSS-Bereich sowie auch Javascript zu verbessern. Mein Ziel ist es, komplexere Websites zu erstellen und diese besser zu gestalten.
+
+
+## Autor
+
+- Website - [Github](https://github.com/Adem-Tozlu)
+- Frontend-Mentor – [@Adem-Tozlu](https://www.frontendmentor.io/profile/Adem-Tozlu)
+- Linkedin - [@Adem-Tozlu](https://www.linkedin.com/in/adem-tozlu-8906b52a5)
