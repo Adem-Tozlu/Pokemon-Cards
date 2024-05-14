@@ -2,7 +2,8 @@
 
 # Project – Pokemon Cards
 
-Dies ist eine Lösung für eine Herausforderung bei der DCI(Digital Career Institut). Die Herausforderungen helfen Ihnen, Ihre Programmierfähigkeiten zu verbessern, indem Sie realistische Projekte erstellen.In dieser Aufgabe ging es darum eine Pokemon-Karte mit Daten anzuzeigen, die über die Pokemon API abgerufen werden.
+Dies ist eine Lösung für eine Herausforderung bei der DCI(Digital Career Institut). Die Herausforderungen helfen Ihnen, Ihre Programmierfähigkeiten zu verbessern, indem Sie realistische Projekte erstellen.Ich freue mich, über das Projekt Pokemon Cards berichten. Im Rahmen des Projekts "Pokemon-Karten" konnte eine Pokemon-Karte mit Daten aus der Pokemon API erfolgreich dargestellt werden.Zusätzlich zur Anzeige der Kartendaten wurde auch der Sound des jeweiligen Pokemons integriert, um das Erlebnis noch interaktiver und lebendiger zu gestalten.Es ist wichtig, dass die Namen der Pokemon bei der Suche immer in englischer Sprache angegeben werden, um eine korrekte Suche in der Pokemon API zu gewährleisten.
+
 
 ## Inhaltsverzeichnis
 
