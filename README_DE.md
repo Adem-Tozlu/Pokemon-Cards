@@ -31,7 +31,7 @@ Dies ist eine Lösung für eine Herausforderung bei der DCI(Digital Career Insti
 ### Links
 
 - Lösungs-URL: [Github-Lösungen](https://github.com/Adem-Tozlu/Pokemon-Cards)
-- Live-Site-URL: [Website Pokemon Cards](https://project-crypto-currencyconverter.vercel.app/)
+- Live-Site-URL: [Website Pokemon Cards](https://pokemon-cards-delta.vercel.app/)
 
 ## Mein Prozess
 
