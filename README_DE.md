@@ -22,12 +22,12 @@ Dies ist eine Lösung für eine Herausforderung bei der DCI(Digital Career Insti
 
 ### Bildschirmfoto
 
-![Screenshot](images/mobile_pokemon.png)
+![Screenshot](images/mobile_pokemon.webp)
 
 
 
 ### Bildschirmfoto
-![Screenshot](images/screenshot_Pokemon.png)
+![Screenshot](images/screenshot_Pokemon.webp)
 
 ### Links
 

@@ -28,11 +28,11 @@ This is a solution to a challenge at the DCI (Digital Career Institute). The cha
 
 ### Screenshot
 
-![Screenshot](images/mobile_pokemon.png)
+![Screenshot](images/mobile_pokemon.webp)
 
 
 ### Screenshot
-![Screenshot](images/screenshot_Pokemon.png)
+![Screenshot](images/screenshot_Pokemon.webp)
 
 ### Links
 
